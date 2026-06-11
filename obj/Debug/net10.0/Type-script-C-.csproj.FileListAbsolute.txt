@@ -1,0 +1,14 @@
+C:\Users\David\OneDrive\Документи\GitHub\Type-script-C-\Type-script-C-\obj\Debug\net10.0\Type-script-C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\OneDrive\Документи\GitHub\Type-script-C-\Type-script-C-\obj\Debug\net10.0\Type-script-C-.AssemblyInfoInputs.cache
+C:\Users\David\OneDrive\Документи\GitHub\Type-script-C-\Type-script-C-\obj\Debug\net10.0\Type-script-C-.AssemblyInfo.cs
+C:\Users\David\OneDrive\Документи\GitHub\Type-script-C-\Type-script-C-\obj\Debug\net10.0\Type-script-C-.csproj.CoreCompileInputs.cache
+C:\Users\David\OneDrive\Документи\GitHub\Type-script-C-\Type-script-C-\bin\Debug\net10.0\Type-script-C-.exe
+C:\Users\David\OneDrive\Документи\GitHub\Type-script-C-\Type-script-C-\bin\Debug\net10.0\Type-script-C-.deps.json
+C:\Users\David\OneDrive\Документи\GitHub\Type-script-C-\Type-script-C-\bin\Debug\net10.0\Type-script-C-.runtimeconfig.json
+C:\Users\David\OneDrive\Документи\GitHub\Type-script-C-\Type-script-C-\bin\Debug\net10.0\Type-script-C-.dll
+C:\Users\David\OneDrive\Документи\GitHub\Type-script-C-\Type-script-C-\bin\Debug\net10.0\Type-script-C-.pdb
+C:\Users\David\OneDrive\Документи\GitHub\Type-script-C-\Type-script-C-\obj\Debug\net10.0\Type-script-C-.dll
+C:\Users\David\OneDrive\Документи\GitHub\Type-script-C-\Type-script-C-\obj\Debug\net10.0\refint\Type-script-C-.dll
+C:\Users\David\OneDrive\Документи\GitHub\Type-script-C-\Type-script-C-\obj\Debug\net10.0\Type-script-C-.pdb
+C:\Users\David\OneDrive\Документи\GitHub\Type-script-C-\Type-script-C-\obj\Debug\net10.0\Type-script-C-.genruntimeconfig.cache
+C:\Users\David\OneDrive\Документи\GitHub\Type-script-C-\Type-script-C-\obj\Debug\net10.0\ref\Type-script-C-.dll
