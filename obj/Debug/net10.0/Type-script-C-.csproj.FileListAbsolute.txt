@@ -12,3 +12,4 @@ C:\Users\David\OneDrive\Документи\GitHub\Type-script-C-\Type-script-C-\
 C:\Users\David\OneDrive\Документи\GitHub\Type-script-C-\Type-script-C-\obj\Debug\net10.0\Type-script-C-.pdb
 C:\Users\David\OneDrive\Документи\GitHub\Type-script-C-\Type-script-C-\obj\Debug\net10.0\Type-script-C-.genruntimeconfig.cache
 C:\Users\David\OneDrive\Документи\GitHub\Type-script-C-\Type-script-C-\obj\Debug\net10.0\ref\Type-script-C-.dll
+C:\Users\David\OneDrive\Документи\GitHub\Type-script-C-\Type-script-C-\obj\Debug\net10.0\Type-script-C-.sourcelink.json
