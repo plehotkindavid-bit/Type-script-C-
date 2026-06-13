@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Type-script-C-")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b140d9b8947f5236253bdf20452520d80753d732")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d702e619266282c02821228717f460da7b837c20")]
 [assembly: System.Reflection.AssemblyProductAttribute("Type-script-C-")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Type-script-C-")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
